@@ -4,5 +4,5 @@
 - Install requirements with `pip install -r requirements.txt`
 
 ### Building
-- Run `./make html`
+- Run `./make dirhtml`
 - Build Folder: `_build\html\index.html`

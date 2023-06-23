@@ -6,8 +6,8 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Mira3D User Manual'
-copyright = '2023, Samisan Tech'
+project = 'MIRA3D - User Manual'
+copyright = '2023, Samisan Tech Pvt Ltd'
 author = 'Samarth Tumdi'
 
 # -- General configuration ---------------------------------------------------
@@ -24,16 +24,3 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
-# html_theme = 'sphinxawesome_theme'
-# html_theme = 'alabaster'
-html_static_path = ['_static']
-
-from dataclasses import asdict
-from sphinxawesome_theme import ThemeOptions
-
-theme_options = ThemeOptions(
-   # Add your theme options. For example:
-   show_prev_next=True
-)
-
-html_theme_options = asdict(theme_options)
