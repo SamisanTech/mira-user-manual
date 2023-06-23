@@ -4,5 +4,5 @@
 - Install requirements with `pip install -r requirements.txt`
 
 ### Building
-- Run `./make dirhtml`
+- Run `sphinx-build -M dirhtml . _build`
 - Build Folder: `_build\html\index.html`
