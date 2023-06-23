@@ -1,14 +1,8 @@
+# MIRA User Manual
 
-To install sphinx:
+### Dependencies
+- Install requirements with `pip install -r requirements.txt`
 
-pip install sphinx
-
-To install theme
-pip install sphinx_rtd_theme
-
-mkdir project-name
-sphinx-quickstart
-
-./make html (dot slash compulsory)
-
-to open the build -> .\_build\html\index.html
+### Building
+- Run `./make html`
+- Build Folder: `_build\html\index.html`
