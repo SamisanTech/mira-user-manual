@@ -6,6 +6,13 @@
 /* mouse icons */
 .mouse-icon {
   transform: translateY(-6px);
+  pointer-events: none;
+}
+
+/* keyboard icons */
+.kbd-icon {
+  transform: translateY(-2px);
+  pointer-events: none;
 }
 
 /* text of asided navbar */
@@ -28,3 +35,7 @@ div.admonition.danger {
   margin-bottom: 0;
 }
 
+/* home icon removal */
+.icon-home::before {
+  content: '';
+}
