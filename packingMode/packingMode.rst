@@ -17,20 +17,20 @@ Users can nest 3D meshes while keeping orientation fixed or minimizing height/ar
 
 .. image:: all4options.png
   
-1. **Accuracy/Speed Slider**
+**1. Accuracy/Speed Slider**
   “Accuracy” will give higher packing density and Speed” will give higher packing speed.
 
-2. **Max Z Allowed**
+**2. Max Z Allowed**
   To limit the orientation of 3D meshes up to a certain height.
 
-3. **Packing based on orientation of 3D meshes**
+**3. Packing based on orientation of 3D meshes**
   KEEP ORIENTATION: 3D meshes are rotated around the Z-axis during packing.(advisable in case of  auto placement of jewellery files for DLP/LCD printing)
 
   MINIMIZE Z HEIGHT: 3D meshes are oriented to achieve minimum part height (normally used in printing technologies like MJP/ FDM to reduce printing time).
 
   MINIMIZE XY AREA: 3D meshes are oriented to achieve minimum part area.
 
-4. **Packing based on placement of 3D meshes**
+**4. Packing based on placement of 3D meshes**
   SORT BY HEIGHT: To place 3D meshes with maximum height first.
 
   SORT BY AREA    : To place 3D meshes with maximum area first.

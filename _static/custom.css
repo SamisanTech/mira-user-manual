@@ -1,0 +1,30 @@
+/* header of asided navbar */
+.wy-side-nav-search {
+  background: #ffd11a !important;
+}
+
+/* mouse icons */
+.mouse-icon {
+  transform: translateY(-6px);
+}
+
+/* text of asided navbar */
+.wy-side-nav-search .icon-home {
+  color: black !important;
+}
+
+/* all ordered lists */
+ol.arabic.simple li {
+  margin-bottom: 1rem;
+}
+
+/* 'Danger' heading on the red boxes in troubleshooting section */
+div.admonition.danger > p.admonition-title, div.admonition.tip > p.admonition-title {
+  display: none;
+}
+
+div.admonition.danger {
+  background: #FADBE1;
+  margin-bottom: 0;
+}
+
