@@ -1,6 +1,10 @@
-/* header of asided navbar */
-.wy-side-nav-search {
+/* header of asided navbar and also mobile-view top navbar */
+.wy-side-nav-search, .wy-nav-top {
   background: #ffd11a !important;
+}
+
+.wy-nav-top a, .wy-nav-top i {
+  color: black !important;
 }
 
 /* mouse icons */
@@ -30,6 +34,7 @@ div.admonition.danger > p.admonition-title, div.admonition.tip > p.admonition-ti
   display: none;
 }
 
+/* In troubleshooting section to make tip and danger seem joined... careful about using these two elsewhere, if possible use the "note" admonition */
 div.admonition.danger {
   background: #FADBE1;
   margin-bottom: 0;
@@ -38,4 +43,44 @@ div.admonition.danger {
 /* home icon removal */
 .icon-home::before {
   content: '';
+}
+
+/* the white background in all sections which is not taking the whole page but now almost the 2/3... previously max-width was 800px and only applied to packing-section */
+.wy-nav-content {
+  max-width: 950px !important;
+}
+
+/* prev and next buttons' div */
+.rst-footer-buttons {
+  margin-top: 24px !important;
+}
+
+/* all images that have been floated right in all sections */
+img.align-right {
+  margin: 0 !important;
+  margin-left: 12px !important;
+  margin-bottom: 8px !important;
+}
+
+/* Cut icon image in edit mode */
+.cut-img.align-right {
+  margin-top: 12px !important;
+}
+
+/* The image after the image mentioned above */
+.all-4-options {
+  margin: 24px 0 !important;
+}
+
+/* underlines! in packing mode's text */
+section#packing-mode p.underlined strong {
+  text-decoration: underline;
+  text-transform: capitalize !important;
+  font-size: 0.95rem !important;
+}
+
+/* for better looking none-native ol heading */
+.custom-heading {
+  font-size: 1.25rem;
+  font-weight: 700;
 }
