@@ -15,12 +15,7 @@ System Requirements
   If you use a higher resolution, a higher DPI is preferred.
 
 
-Download MIRAlite
--------------------
-
-MIRAlite can be downloaded directly from our website (https://mira3dp.com/)
-
 Download MIRApro
 -------------------
 
-To get MIRApro download the MIRA software from the link mentioned above and follow the steps given in the installation guide.
+To get MIRApro download the MIRApro installer from https://mira3dp.com/ and follow the steps given in the installation guide.

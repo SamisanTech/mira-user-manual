@@ -5,7 +5,7 @@ Installation guide
 Setting up MIRApro on your system
 ---------------------------------
 
-1. Once the executable has been downloaded *(MIRAlite)*, install the software by running the executable. Please follow the steps in the installer executable (.exe) file.
+1. Once the installer has been downloaded, install the software by running the executable (.msi). Please follow the steps mentioned in the installation wizard.
 2. **License Request**: Upon running the software for the first time, the user is prompted to input their details for activation. Kindly enter the details and wait for license activation.
 3. **License Request Approval**: Once our team approves the activation request, the user will be able to run the software for the stipulated period for which activation has been done.
 

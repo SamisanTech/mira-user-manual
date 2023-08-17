@@ -12,27 +12,34 @@ Currently, the MIRA3D can generate slices only in PNG file format.
 
 ----
 
-**1. Resolution**
+**1. SLC Parameters**
+
+a. **Convert** to Mesh: To generate 3D triangular mesh.
+b. **Smoothen**: To smoothen the mesh.
+c. **Decimate**: To reduce the number of triangles in the mesh.
+
+
+**2. Resolution**
 
 To set the resolution of the slices according to the printer resolution.
 
-**2. Base Type**
+**3. Base Type**
 
 To select the appropriate base type (outer boundary/bounding box).
 
-**3. Base Thickness**
+**4. Base Thickness**
 
 To add thickness to the base.
 
-**4. Layer Thickness**
+**5. Layer Thickness**
 
 To specify the layer thickness in which the build-platform is to be sliced.
 
-**5. Perforation**
+**6. Perforation**
 
 To add perforation to the base.
 
-**6. VSD Factor**
+**7. VSD Factor**
 
 Propreitary MIRA algorithm for improved part surface smoothness.
 

@@ -3,13 +3,12 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Mira3D User Manual!
+Welcome to MIRA3D User Manual!
 =====================================
 
 .. toctree::
    :maxdepth: 2
    :hidden:
-   :caption: Contents:
 
    GettingStarted/gettingstarted
    InstallationGuide/ig
@@ -24,6 +23,7 @@ Welcome to Mira3D User Manual!
    sliceMode/slicemode.rst
    generalTools/generalTools.rst
    troubleShooting/troubleshooting.rst
+   KeyboardShortcuts/kbds.rst
    
 MIRA3D (Mesh Improvement Repair and Arrangement) 
 performs a set of tasks on a 3D mesh  to make it "3D Printable". 

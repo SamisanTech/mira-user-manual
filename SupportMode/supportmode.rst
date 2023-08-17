@@ -24,7 +24,7 @@ This feature adds beam and scaffolded support to a 3D mesh.
 Before clicking on the **“Auto Generate”** button, it is recommended to select the appropriate support profiles.
 
 .. image:: autogenerateMenu.png
-   :scale: 60 %
+   :scale: 52 %
    :align: right
 
 
@@ -61,7 +61,7 @@ If the user needs scaffolding, **“Auto Scaffold”** checkbox needs to be tick
 ----
 
 .. image:: prop.png
-   :width: 12.5 %
+   :width: 10 %
    :align: right
 
 **Prop**
@@ -71,7 +71,7 @@ Prop is a beam support that connects two regions of a geometry for enhancing par
 ----
 
 .. image:: autotree.png
-   :width: 12.5 %
+   :width: 10 %
    :align: right
 
 **Auto Tree**
@@ -81,7 +81,7 @@ Similar to **“Auto generate”** feature, **“Auto tree”** adds branching t
 ----
 
 .. image:: treeselected.png
-   :width: 12.5 %
+   :width: 10 %
    :align: right
 
 **Tree Selected**
@@ -92,9 +92,70 @@ Transforms selected beam supports into a tree support.
 
 ----
 
+.. image:: scaffold_selected.png
+    :width: 10 %
+    :align: right
+
+**Scaffold Selected**
+
+Add scaffolding to the selected supports.
+
+|
+
+-------
+
+*Support Operations*
+-----------------------
+
+.. image:: many_options.png
+    :align: center
+
+|
+
+.. cssclass:: custom-heading
+
+1\. Mirror X
+  
+   Mirror the selected supports along X-axis.
+
+.. cssclass:: custom-heading
+   
+2\. Mirror Y
+  
+   Mirror the selected supports along Y-axis.
+
+.. cssclass:: custom-heading
+
+3\. Mirror XY
+  
+   Mirror the selected supports along X & Y axes.
+
+.. cssclass:: custom-heading
+
+4\. Polar Array
+  
+   Generate copies of the selected supports around the vertical axis by specifying the quantity and the angle coverage.
+
+.. cssclass:: custom-heading
+
+5\. Mirror Diagonally
+  
+   Mirror the selected supports along the diagonal of the XY plane.
+
+.. cssclass:: custom-heading
+
+6\. Array
+  
+   Generate copies of the selected support(s) by specifying the quantity and a gap between the copies.
+
+.. note:: 
+   If the checkbox is selected, the supports will be re-added.
+
+--------
+
 
 .. image:: merge.png
-   :width: 12.5 %
+   :width: 10 %
    :align: right
 
 **Merge to Geometry**
