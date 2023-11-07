@@ -5,6 +5,7 @@
 		}
 	],
 	"settings": {
-		"esbonio.sphinx.confDir": "${workspaceFolder}"
+		"esbonio.sphinx.confDir": "${workspaceFolder}",
+		"liveServer.settings.port": 5501
 	}
 }

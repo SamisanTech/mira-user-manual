@@ -41,15 +41,15 @@ File Operations Tab
    :width: 25px
    :class: kbd-icon
 
-.. image:: UpscaledFOTIcons.png
-    :align: center
-    :scale: 90
+.. image:: Screenshot9.png
+   :align: center
+   :width: 500
 
 ----
 
-.. image:: Import.png
+.. image:: load.png
    :align: right
-   :width: 45
+   :width: 60
 
 **1. Load** 
 
@@ -57,9 +57,9 @@ To load single or multiple files. Keyboard shortcut: |ctrl| + |i|.
 
 ----
 
-.. image:: ImportFolder.png
+.. image:: loadfolder.png
    :align: right
-   :width: 45
+   :width: 60
 
 **2. Load Folder** 
 
@@ -67,9 +67,9 @@ To load all the files contained in a folder. Keyboard shortcut: |ctrl| + |shift|
 
 ----
 
-.. image:: Reload.png
+.. image:: reload.png
    :align: right
-   :width: 45
+   :width: 60
 
 **3. Reload File**: 
 
@@ -77,9 +77,9 @@ To replace the current (edited) file by its original version. Keyboard shortcut:
 
 ----
 
-.. image:: Delete.png
+.. image:: delete.png
    :align: right
-   :width: 45
+   :width: 60
 
 **4. Delete File**
 
@@ -87,9 +87,9 @@ To delete the selected file(s). Keyboard shortcut: |del| key.
 
 ----
 
-.. image:: Save.png
+.. image:: save.png
    :align: right
-   :width: 45
+   :width: 60
 
 **5. Save** 
 
@@ -99,9 +99,9 @@ Keyboard shortcut: |ctrl| + |s|.
 
 ----
 
-.. image:: Export.png
+.. image:: export.png
    :align: right
-   :width: 45
+   :width: 60
 
 **6. Export** 
 
@@ -112,10 +112,10 @@ Keyboard shortcut: |ctrl| + |e|.
 ----
 
 
-.. image:: QuickArrange.png
+.. image:: arrange.png
    :align: right
-   :width: 45
+   :width: 60
 
 **7. Quick arrange**: 
 
-To arrange all the loaded files as per their bounding boxes on the print bed Keyboard shortcut: |ctrl| + |shift| + |a|.
+To arrange all the loaded files as per their bounding boxes on the print bed Keyboard shortcut: |ctrl| + |shift| + |a|

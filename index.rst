@@ -16,11 +16,9 @@ Welcome to MIRA3D User Manual!
    RendererControls/renderercontrols
    FOT/fot
    MeshPropsTab/mpt.rst
-   EditMode/editMode.rst
-   RepairMode/repairMode.rst
+   EditandRepairModes/editandrepairmodes.rst
    SupportMode/supportmode.rst
-   packingMode/packingMode.rst
-   sliceMode/slicemode.rst
+   packingandslicingmodes/packingandslicingmodes.rst
    generalTools/generalTools.rst
    troubleShooting/troubleshooting.rst
    KeyboardShortcuts/kbds.rst

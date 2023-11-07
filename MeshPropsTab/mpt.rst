@@ -1,7 +1,7 @@
 Mesh Properties Tab
 =======================
 
-.. image:: VOL.png
+.. image:: meshpropertiestab.png
    :width: 350
    :align: center
 
@@ -9,11 +9,9 @@ Mesh Properties Tab
 
 For the selected file, this tab displays the **mesh properties** such as:
 
-**1. Vertices**
+**1. Faces**-Number of triangles in selected part(s)
 
-**2. Faces** 
-
-**3. Volume**
+**2. Volume**-Estimated print volume of selected part(s)
 
 .. note:: 
   Click on the **CALCULATE** button to get the volume of the file(s).

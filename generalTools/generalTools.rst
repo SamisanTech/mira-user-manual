@@ -18,7 +18,7 @@ To clip the object along the X, Y or Z axis.
 
 ----
 
-**3. Dipslay Modes**
+**3. Display Modes**
 
 To toggle between shaded mode and wireframe mode.
 

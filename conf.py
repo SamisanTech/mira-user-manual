@@ -8,7 +8,7 @@
 
 project = 'MIRA3D - User Manual'
 copyright = '2023, Samisan Tech Pvt Ltd'
-author = 'Samarth Tumdi'
+author = 'Nishita Mehta'
 
 # -- General configuration ---------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
