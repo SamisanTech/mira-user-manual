@@ -17,12 +17,16 @@ extensions = []
 
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
+extensions = ["sphinx_favicon"]
 
 # -- Options for HTML output -------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#options-for-html-output
 
 html_theme = 'sphinx_rtd_theme'
 html_static_path = ['_static']
+favicons = [
+  {"rel": "icon", "href": "main_logo_R1.png"},
+  ]
 
 def setup(app):
   app.add_css_file( "custom.css" )

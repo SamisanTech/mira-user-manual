@@ -79,11 +79,11 @@ Users can nest 3D meshes while keeping orientation fixed and minimizing area.
 
   .. cssclass:: underlined
 
-  **Sort by Height**: To place 3D meshes with maximum height first.
+  **a. Sort by Height**: To place 3D meshes with maximum height first.
 
   .. cssclass:: underlined
 
-  **Sort by Area**: To place 3D meshes with maximum area first. 
+  **b. Sort by Area**: To place 3D meshes with maximum area first. 
 
   1. **Top-Left**: Arranges the parts on the top left corner of the print bed.
 
@@ -101,7 +101,7 @@ Users can nest 3D meshes while keeping orientation fixed and minimizing area.
 
   8. **Left**: Arranges the parts on the left side of the print bed.
 
-  9. **Center**: Arranges the parts on the center of the print bed.
+  9. **Center**: Arranges the parts in the center of the print bed.
 
   10. **Border**: Arranges the parts on the border of the print bed.
 
